@@ -1,1 +1,0 @@
-# Script is used to update the data from Kaggle.com
